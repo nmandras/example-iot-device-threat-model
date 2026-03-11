@@ -18,9 +18,10 @@
         "version": "2.6.0",
         "cells": [
           {
+            "angle": 345,
             "position": {
               "x": 80,
-              "y": 60
+              "y": -75
             },
             "size": {
               "width": 390,
@@ -41,6 +42,13 @@
                 "80286fe7-1ab0-429d-88d2-22c46d06c366",
                 "adea0c2d-3fc7-4271-83d4-5675bf48cf4d"
               ]
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
